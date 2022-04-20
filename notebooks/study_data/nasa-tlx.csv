@@ -1,0 +1,23 @@
+﻿Participant,Interface,Story,Mental Demand,Physical Demand,Temporal Demand,Performance,Effort,Frustration,Score
+P1,Baseline,A kiss of Ice,65,5,60,15,35,40,36.66666667
+P1,DVP,The Prisoners,55,45,60,0,55,30,40.83333333
+P2,DVP,A kiss of Ice,30,25,70,40,45,15,37.5
+P2,Baseline,The Prisoners,75,35,65,65,65,55,60
+P3,Baseline,A kiss of Ice,35,5,55,15,25,35,28.33333333
+P3,DVP,The Prisoners,25,55,15,10,20,10,22.5
+P4,DVP,A kiss of Ice,35,5,20,75,20,20,29.16666667
+P4,Baseline,The Prisoners,45,5,20,70,55,25,36.66666667
+P5,Baseline,The Prisoners,90,80,60,40,70,35,62.5
+P5,DVP,A kiss of Ice,80,50,30,5,30,15,35
+P6,Baseline,The Prisoners,70,20,5,20,45,20,30
+P6,DVP,A kiss of Ice,60,30,15,5,10,5,20.83333333
+P7,DVP,The Prisoners,65,5,20,10,40,5,24.16666667
+P7,Baseline,A kiss of Ice,75,5,30,20,40,20,31.66666667
+P8,Baseline,A kiss of Ice,75,10,50,20,65,30,41.66666667
+P8,DVP,The Prisoners,35,5,30,5,50,10,22.5
+P9,DVP,A kiss of Ice,40,20,30,10,50,30,30
+P9,Baseline,The Prisoners,50,20,50,20,50,50,40
+P10,Baseline,A kiss of Ice,75,5,30,20,40,20,31.66666667
+P10,DVP,The Prisoners,65,5,20,10,40,5,24.16666667
+P11,Baseline,The Prisoners,55,5,5,15,35,5,20
+P11,DVP,A kiss of Ice,45,5,15,5,5,5,13.33333333

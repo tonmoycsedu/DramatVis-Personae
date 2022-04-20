@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='vendor/bootstrap/bootstrap.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='vendor/semantic2.4/semantic.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='vendor/quill/quill.snow.css')}}">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <!-- <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='vendor/quill/quill.bubble.css')}}"> -->
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/custom.css') }}">
+
+    <title>StoryLine</title>
+</head>
+<body>
+
+	<!-- Nav bar start -->
+	<nav class="navbar navbar-expand-lg navbar-light site-color mainnav">
+		<a class="navbar-brand" href="{{url_for('welcome')}}"><i>DramatVis Personae</i></a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+	  </button>
+    {% if 'email' in session %}
+        <a class="nav-item nav-link" href="{{url_for('home')}}"> {{session['email']}}</a>
+        <a class="nav-item nav-link" href="{{url_for('logout')}}"> Log Out</a>
+    {% endif%}
+
+    <div class="ui huge transparent input">
+      <input id="project_name" type="text" placeholder="Project Name" value="Untitled" style="display: none;">
+    </div>
+
+    <div id="hide_div"  class="ui toggle checkbox" style="margin-left: 600px; display:none;">
+      <input id="toggle-ui" type="checkbox" name="public">
+      <label>Hide</label>
+    </div>
+
+    <div id="wordcloud_div" style="margin-left: 50px; display: none;">
+      <label>Word Count:</label>
+      <text id="wordcount">0</text>
+    </div>
+    
+
+	</nav>
+	<!-- Nav bar end -->
+
+	<!-- main container start -->
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+          {% for category, message in messages %}
+            <div class="alert alert-{{ category }}">
+              {{ message }}
+            </div>
+          {% endfor %}
+        {% endif %}
+    {% endwith %}
+
+    {% block content %}{% endblock %}
+</body>
+</html>

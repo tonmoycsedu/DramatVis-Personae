@@ -1,0 +1,2628 @@
+{
+    "entities": {
+        "Christa Barnaby": 1,
+        "English": 1,
+        "German": 1,
+        "Irina": 1,
+        "Italian": 1,
+        "Richard": 1,
+        "Richard Barnaby": 1,
+        "Scheiße": 1,
+        "Sir": 1,
+        "Uwe (The Bearded Man)": 1,
+        "Uwe (The Bearded Man) German": 1
+    },
+    "characters": [
+        {
+            "name": "Christa Barnaby",
+            "trimmed_name": "christabarnaby",
+            "demographics": {
+                "Gender": "Female",
+                "Race": "White",
+                "Nationality": "American",
+                "Age": "Middle-aged"
+            },
+            "Gender": "Female",
+            "Race": "White",
+            "Nationality": "American",
+            "Age": "Middle-aged"
+        },
+        {
+            "name": "Irina (The Woman)",
+            "trimmed_name": "irina(thewoman)",
+            "demographics": {
+                "Gender": "Female",
+                "Race": "White",
+                "Nationality": "Russian",
+                "Age": "Young"
+            },
+            "Gender": "Female",
+            "Race": "White",
+            "Nationality": "Russian",
+            "Age": "Young"
+        },
+        {
+            "name": "Richard Barnaby",
+            "trimmed_name": "richardbarnaby",
+            "demographics": {
+                "Gender": "Male",
+                "Race": "White",
+                "Nationality": "American",
+                "Age": "Middle-aged"
+            },
+            "Gender": "Male",
+            "Race": "White",
+            "Nationality": "American",
+            "Age": "Middle-aged"
+        },
+        {
+            "name": "Mr. Lee (The Asian Man)",
+            "trimmed_name": "theasianman",
+            "demographics": {
+                "Gender": "Male",
+                "Race": "Asian",
+                "Nationality": "Singapore",
+                "Age": "Old"
+            },
+            "Gender": "Male",
+            "Race": "Asian",
+            "Nationality": "Singapore",
+            "Age": "Old"
+        },
+        {
+            "name": "Uwe (The Bearded Man)",
+            "trimmed_name": "uwe(thebeardedman)",
+            "demographics": {
+                "Gender": "Male",
+                "Race": "White",
+                "Nationality": "German",
+                "Age": "Middle-aged"
+            },
+            "Gender": "Male",
+            "Race": "White",
+            "Nationality": "German",
+            "Age": "Middle-aged"
+        }
+    ],
+    "sentence_limits": {
+        "0": 0,
+        "1": 168,
+        "2": 250,
+        "3": 314,
+        "4": 449,
+        "5": 502,
+        "6": 582,
+        "7": 688,
+        "8": 812,
+        "9": 813,
+        "10": 844,
+        "11": 856,
+        "12": 858,
+        "13": 891,
+        "14": 892,
+        "15": 1013,
+        "16": 1014,
+        "17": 1048,
+        "18": 1114,
+        "19": 1147,
+        "20": 1148,
+        "21": 1181,
+        "22": 1182,
+        "23": 1259,
+        "24": 1308,
+        "25": 1309,
+        "26": 1327,
+        "27": 1363,
+        "28": 1365,
+        "29": 1395,
+        "30": 1396,
+        "31": 1448,
+        "32": 1449,
+        "33": 1468,
+        "34": 1470,
+        "35": 1529,
+        "36": 1567,
+        "37": 1568,
+        "38": 1617,
+        "39": 1619,
+        "40": 1747,
+        "41": 1748,
+        "42": 1821,
+        "43": 1822,
+        "44": 1855,
+        "45": 1857,
+        "46": 2006,
+        "47": 2078,
+        "48": 2234,
+        "49": 2316,
+        "50": 2429,
+        "51": 2460,
+        "52": 2701,
+        "53": 2720,
+        "54": 2783,
+        "55": 2860,
+        "56": 2907,
+        "57": 2989,
+        "58": 3117,
+        "59": 3134,
+        "60": 3217,
+        "61": 3252,
+        "62": 3319,
+        "63": 3416,
+        "64": 3545,
+        "65": 3625,
+        "66": 3742,
+        "67": 3777,
+        "68": 3842,
+        "69": 3864,
+        "70": 3944,
+        "71": 4015,
+        "72": 4052,
+        "73": 4150,
+        "74": 4310,
+        "75": 4415,
+        "76": 4416,
+        "77": 4452,
+        "78": 4453,
+        "79": 4558,
+        "80": 4616,
+        "81": 4736,
+        "82": 4816,
+        "83": 4887,
+        "84": 4888,
+        "85": 4911,
+        "86": 4913,
+        "87": 4962,
+        "88": 4978,
+        "89": 5081,
+        "90": 5082,
+        "91": 5193,
+        "92": 5203,
+        "93": 5258,
+        "94": 5317,
+        "95": 5389,
+        "96": 5490,
+        "97": 5491,
+        "98": 5513,
+        "99": 5577,
+        "100": 5643,
+        "101": 5740,
+        "102": 5902,
+        "103": 6082,
+        "104": 6178,
+        "105": 6288,
+        "106": 6410,
+        "107": 6543,
+        "108": 6648,
+        "109": 6781,
+        "110": 6796,
+        "111": 6956,
+        "112": 7057,
+        "113": 7104,
+        "114": 7338,
+        "115": 7393,
+        "116": 7536,
+        "117": 7692,
+        "118": 7839,
+        "119": 7905,
+        "120": 7991,
+        "121": 7997,
+        "122": 8144,
+        "123": 8208,
+        "124": 8366,
+        "125": 8488,
+        "126": 8554,
+        "127": 8620,
+        "128": 8740,
+        "129": 8741,
+        "130": 8769,
+        "131": 8881,
+        "132": 8909,
+        "133": 9043,
+        "134": 9142,
+        "135": 9180,
+        "136": 9181,
+        "137": 9340,
+        "138": 9511,
+        "139": 9621,
+        "140": 9689,
+        "141": 9845,
+        "142": 10007,
+        "143": 10048,
+        "144": 10225,
+        "145": 10331,
+        "146": 10332,
+        "147": 10389,
+        "148": 10391,
+        "149": 10461,
+        "150": 10600,
+        "151": 10601,
+        "152": 10686,
+        "153": 10687,
+        "154": 10752,
+        "155": 10754,
+        "156": 10797,
+        "157": 10869,
+        "158": 10870,
+        "159": 10903,
+        "160": 10904,
+        "161": 10947,
+        "162": 10998,
+        "163": 11000,
+        "164": 11090,
+        "165": 11091,
+        "166": 11189,
+        "167": 11190,
+        "168": 11215,
+        "169": 11217,
+        "170": 11319,
+        "171": 11506,
+        "172": 11571,
+        "173": 11572,
+        "174": 11635,
+        "175": 11636,
+        "176": 11655,
+        "177": 11684,
+        "178": 11686,
+        "179": 11763,
+        "180": 11764,
+        "181": 11793,
+        "182": 11835,
+        "183": 11837,
+        "184": 11937,
+        "185": 12060,
+        "186": 12061,
+        "187": 12100,
+        "188": 12247,
+        "189": 12351,
+        "190": 12459,
+        "191": 12694,
+        "192": 12695,
+        "193": 12785,
+        "194": 12900,
+        "195": 12927,
+        "196": 12928,
+        "197": 12949,
+        "198": 13066,
+        "199": 13137,
+        "200": 13221,
+        "201": 13287,
+        "202": 13363,
+        "203": 13501,
+        "204": 13685,
+        "205": 13780,
+        "206": 13796,
+        "207": 13855,
+        "208": 13924,
+        "209": 13957,
+        "210": 14034,
+        "211": 14035,
+        "212": 14117,
+        "213": 14211,
+        "214": 14212,
+        "215": 14228,
+        "216": 14260,
+        "217": 14458,
+        "218": 14598,
+        "219": 14665,
+        "220": 14759,
+        "221": 14760,
+        "222": 14846,
+        "223": 14847,
+        "224": 14965,
+        "225": 14986,
+        "226": 14987,
+        "227": 15087,
+        "228": 15199,
+        "229": 15221,
+        "230": 15373,
+        "231": 15414,
+        "232": 15489,
+        "233": 15490,
+        "234": 15518,
+        "235": 15519,
+        "236": 15533,
+        "237": 15555,
+        "238": 15599,
+        "239": 15674,
+        "240": 15743,
+        "241": 15744,
+        "242": 15774,
+        "243": 15776,
+        "244": 15794,
+        "245": 15795,
+        "246": 15821,
+        "247": 15822,
+        "248": 15849,
+        "249": 15851,
+        "250": 15883,
+        "251": 15884,
+        "252": 16023,
+        "253": 16046,
+        "254": 16047,
+        "255": 16124,
+        "256": 16125,
+        "257": 16192,
+        "258": 16318,
+        "259": 16388,
+        "260": 16452,
+        "261": 16454,
+        "262": 16455,
+        "263": 16530,
+        "264": 16531,
+        "265": 16600,
+        "266": 16602,
+        "267": 16603,
+        "268": 16637,
+        "269": 16638,
+        "270": 16660,
+        "271": 16662,
+        "272": 16687,
+        "273": 16688,
+        "274": 16712,
+        "275": 16714,
+        "276": 16767,
+        "277": 16805,
+        "278": 16811,
+        "279": 16895,
+        "280": 16896,
+        "281": 16941,
+        "282": 16989,
+        "283": 16991,
+        "284": 17010,
+        "285": 17076,
+        "286": 17171,
+        "287": 17172,
+        "288": 17207,
+        "289": 17209,
+        "290": 17252,
+        "291": 17253,
+        "292": 17269,
+        "293": 17326,
+        "294": 17327,
+        "295": 17367,
+        "296": 17369,
+        "297": 17402,
+        "298": 17403,
+        "299": 17413,
+        "300": 17438,
+        "301": 17439,
+        "302": 17453,
+        "303": 17455,
+        "304": 17503,
+        "305": 17504,
+        "306": 17526,
+        "307": 17527,
+        "308": 17572,
+        "309": 17574,
+        "310": 17585,
+        "311": 17613,
+        "312": 17688
+    },
+    "timeline": [
+        {
+            "index": 0,
+            "name": "Richard Barnaby",
+            "sentence": 0
+        },
+        {
+            "index": 0,
+            "name": "Richard Barnaby",
+            "sentence": 0
+        },
+        {
+            "index": 0,
+            "name": "Richard Barnaby",
+            "sentence": 0
+        },
+        {
+            "index": 0,
+            "name": "Richard Barnaby",
+            "sentence": 0
+        },
+        {
+            "index": 1,
+            "name": "Richard Barnaby",
+            "sentence": 1
+        },
+        {
+            "index": 1,
+            "name": "Richard Barnaby",
+            "sentence": 1
+        },
+        {
+            "index": 2,
+            "name": "Richard Barnaby",
+            "sentence": 2
+        },
+        {
+            "index": 2,
+            "name": "Richard Barnaby",
+            "sentence": 2
+        },
+        {
+            "index": 2,
+            "name": "Richard Barnaby",
+            "sentence": 2
+        },
+        {
+            "index": 3,
+            "name": "Richard Barnaby",
+            "sentence": 3
+        },
+        {
+            "index": 3,
+            "name": "Richard Barnaby",
+            "sentence": 3
+        },
+        {
+            "index": 3,
+            "name": "Richard Barnaby",
+            "sentence": 3
+        },
+        {
+            "index": 4,
+            "name": "Richard Barnaby",
+            "sentence": 4
+        },
+        {
+            "index": 5,
+            "name": "Christa Barnaby",
+            "sentence": 5
+        },
+        {
+            "index": 5,
+            "name": "Christa Barnaby",
+            "sentence": 5
+        },
+        {
+            "index": 6,
+            "name": "Richard Barnaby",
+            "sentence": 6
+        },
+        {
+            "index": 6,
+            "name": "Richard Barnaby",
+            "sentence": 6
+        },
+        {
+            "index": 7,
+            "name": "Christa Barnaby",
+            "sentence": 7
+        },
+        {
+            "index": 7,
+            "name": "Christa Barnaby",
+            "sentence": 7
+        },
+        {
+            "index": 7,
+            "name": "Richard Barnaby",
+            "sentence": 7
+        },
+        {
+            "index": 7,
+            "name": "Richard Barnaby",
+            "sentence": 7
+        },
+        {
+            "index": 9,
+            "name": "Christa Barnaby",
+            "sentence": 9
+        },
+        {
+            "index": 9,
+            "name": "Richard Barnaby",
+            "sentence": 9
+        },
+        {
+            "index": 9,
+            "name": "Christa Barnaby",
+            "sentence": 9
+        },
+        {
+            "index": 12,
+            "name": "Christa Barnaby",
+            "sentence": 12
+        },
+        {
+            "index": 14,
+            "name": "Christa Barnaby",
+            "sentence": 14
+        },
+        {
+            "index": 14,
+            "name": "Richard Barnaby",
+            "sentence": 14
+        },
+        {
+            "index": 16,
+            "name": "Christa Barnaby",
+            "sentence": 16
+        },
+        {
+            "index": 17,
+            "name": "Richard Barnaby",
+            "sentence": 17
+        },
+        {
+            "index": 18,
+            "name": "Christa Barnaby",
+            "sentence": 18
+        },
+        {
+            "index": 18,
+            "name": "Richard Barnaby",
+            "sentence": 18
+        },
+        {
+            "index": 20,
+            "name": "Christa Barnaby",
+            "sentence": 20
+        },
+        {
+            "index": 22,
+            "name": "Christa Barnaby",
+            "sentence": 22
+        },
+        {
+            "index": 22,
+            "name": "Richard Barnaby",
+            "sentence": 22
+        },
+        {
+            "index": 23,
+            "name": "Richard Barnaby",
+            "sentence": 23
+        },
+        {
+            "index": 25,
+            "name": "Christa Barnaby",
+            "sentence": 25
+        },
+        {
+            "index": 25,
+            "name": "Richard Barnaby",
+            "sentence": 25
+        },
+        {
+            "index": 30,
+            "name": "Christa Barnaby",
+            "sentence": 30
+        },
+        {
+            "index": 30,
+            "name": "Richard Barnaby",
+            "sentence": 30
+        },
+        {
+            "index": 32,
+            "name": "Christa Barnaby",
+            "sentence": 32
+        },
+        {
+            "index": 34,
+            "name": "Richard Barnaby",
+            "sentence": 34
+        },
+        {
+            "index": 35,
+            "name": "Richard Barnaby",
+            "sentence": 35
+        },
+        {
+            "index": 37,
+            "name": "Richard Barnaby",
+            "sentence": 37
+        },
+        {
+            "index": 37,
+            "name": "Christa Barnaby",
+            "sentence": 37
+        },
+        {
+            "index": 39,
+            "name": "Richard Barnaby",
+            "sentence": 39
+        },
+        {
+            "index": 39,
+            "name": "Christa Barnaby",
+            "sentence": 39
+        },
+        {
+            "index": 39,
+            "name": "Christa Barnaby",
+            "sentence": 39
+        },
+        {
+            "index": 41,
+            "name": "Richard Barnaby",
+            "sentence": 41
+        },
+        {
+            "index": 41,
+            "name": "Christa Barnaby",
+            "sentence": 41
+        },
+        {
+            "index": 43,
+            "name": "Richard Barnaby",
+            "sentence": 43
+        },
+        {
+            "index": 43,
+            "name": "Christa Barnaby",
+            "sentence": 43
+        },
+        {
+            "index": 45,
+            "name": "Richard Barnaby",
+            "sentence": 45
+        },
+        {
+            "index": 45,
+            "name": "Christa Barnaby",
+            "sentence": 45
+        },
+        {
+            "index": 46,
+            "name": "Richard Barnaby",
+            "sentence": 46
+        },
+        {
+            "index": 48,
+            "name": "Richard Barnaby",
+            "sentence": 48
+        },
+        {
+            "index": 48,
+            "name": "Richard Barnaby",
+            "sentence": 48
+        },
+        {
+            "index": 50,
+            "name": "Richard Barnaby",
+            "sentence": 50
+        },
+        {
+            "index": 51,
+            "name": "Richard Barnaby",
+            "sentence": 51
+        },
+        {
+            "index": 51,
+            "name": "Richard Barnaby",
+            "sentence": 51
+        },
+        {
+            "index": 53,
+            "name": "Richard Barnaby",
+            "sentence": 53
+        },
+        {
+            "index": 57,
+            "name": "Irina (The Woman)",
+            "sentence": 57
+        },
+        {
+            "index": 59,
+            "name": "Richard Barnaby",
+            "sentence": 59
+        },
+        {
+            "index": 60,
+            "name": "Richard Barnaby",
+            "sentence": 60
+        },
+        {
+            "index": 61,
+            "name": "Richard Barnaby",
+            "sentence": 61
+        },
+        {
+            "index": 61,
+            "name": "Richard Barnaby",
+            "sentence": 61
+        },
+        {
+            "index": 62,
+            "name": "Richard Barnaby",
+            "sentence": 62
+        },
+        {
+            "index": 62,
+            "name": "Richard Barnaby",
+            "sentence": 62
+        },
+        {
+            "index": 63,
+            "name": "Richard Barnaby",
+            "sentence": 63
+        },
+        {
+            "index": 63,
+            "name": "Irina (The Woman)",
+            "sentence": 63
+        },
+        {
+            "index": 64,
+            "name": "Irina (The Woman)",
+            "sentence": 64
+        },
+        {
+            "index": 64,
+            "name": "Irina (The Woman)",
+            "sentence": 64
+        },
+        {
+            "index": 66,
+            "name": "Richard Barnaby",
+            "sentence": 66
+        },
+        {
+            "index": 68,
+            "name": "Richard Barnaby",
+            "sentence": 68
+        },
+        {
+            "index": 70,
+            "name": "Richard Barnaby",
+            "sentence": 70
+        },
+        {
+            "index": 72,
+            "name": "Richard Barnaby",
+            "sentence": 72
+        },
+        {
+            "index": 72,
+            "name": "Richard Barnaby",
+            "sentence": 72
+        },
+        {
+            "index": 72,
+            "name": "Irina (The Woman)",
+            "sentence": 72
+        },
+        {
+            "index": 73,
+            "name": "Richard Barnaby",
+            "sentence": 73
+        },
+        {
+            "index": 73,
+            "name": "Irina (The Woman)",
+            "sentence": 73
+        },
+        {
+            "index": 73,
+            "name": "Richard Barnaby",
+            "sentence": 73
+        },
+        {
+            "index": 73,
+            "name": "Irina (The Woman)",
+            "sentence": 73
+        },
+        {
+            "index": 74,
+            "name": "Irina (The Woman)",
+            "sentence": 74
+        },
+        {
+            "index": 74,
+            "name": "Richard Barnaby",
+            "sentence": 74
+        },
+        {
+            "index": 76,
+            "name": "Irina (The Woman)",
+            "sentence": 76
+        },
+        {
+            "index": 78,
+            "name": "Irina (The Woman)",
+            "sentence": 78
+        },
+        {
+            "index": 78,
+            "name": "Irina (The Woman)",
+            "sentence": 78
+        },
+        {
+            "index": 78,
+            "name": "Richard Barnaby",
+            "sentence": 78
+        },
+        {
+            "index": 78,
+            "name": "Richard Barnaby",
+            "sentence": 78
+        },
+        {
+            "index": 79,
+            "name": "Richard Barnaby",
+            "sentence": 79
+        },
+        {
+            "index": 79,
+            "name": "Irina (The Woman)",
+            "sentence": 79
+        },
+        {
+            "index": 80,
+            "name": "Irina (The Woman)",
+            "sentence": 80
+        },
+        {
+            "index": 80,
+            "name": "Irina (The Woman)",
+            "sentence": 80
+        },
+        {
+            "index": 81,
+            "name": "Richard Barnaby",
+            "sentence": 81
+        },
+        {
+            "index": 81,
+            "name": "Irina (The Woman)",
+            "sentence": 81
+        },
+        {
+            "index": 82,
+            "name": "Irina (The Woman)",
+            "sentence": 82
+        },
+        {
+            "index": 84,
+            "name": "Richard Barnaby",
+            "sentence": 84
+        },
+        {
+            "index": 84,
+            "name": "Irina (The Woman)",
+            "sentence": 84
+        },
+        {
+            "index": 86,
+            "name": "Irina (The Woman)",
+            "sentence": 86
+        },
+        {
+            "index": 88,
+            "name": "Richard Barnaby",
+            "sentence": 88
+        },
+        {
+            "index": 90,
+            "name": "Richard Barnaby",
+            "sentence": 90
+        },
+        {
+            "index": 90,
+            "name": "Richard Barnaby",
+            "sentence": 90
+        },
+        {
+            "index": 92,
+            "name": "Richard Barnaby",
+            "sentence": 92
+        },
+        {
+            "index": 93,
+            "name": "Richard Barnaby",
+            "sentence": 93
+        },
+        {
+            "index": 94,
+            "name": "Richard Barnaby",
+            "sentence": 94
+        },
+        {
+            "index": 94,
+            "name": "Irina (The Woman)",
+            "sentence": 94
+        },
+        {
+            "index": 95,
+            "name": "Richard Barnaby",
+            "sentence": 95
+        },
+        {
+            "index": 95,
+            "name": "Irina (The Woman)",
+            "sentence": 95
+        },
+        {
+            "index": 97,
+            "name": "Irina (The Woman)",
+            "sentence": 97
+        },
+        {
+            "index": 98,
+            "name": "Richard Barnaby",
+            "sentence": 98
+        },
+        {
+            "index": 98,
+            "name": "Irina (The Woman)",
+            "sentence": 98
+        },
+        {
+            "index": 99,
+            "name": "Richard Barnaby",
+            "sentence": 99
+        },
+        {
+            "index": 101,
+            "name": "Richard Barnaby",
+            "sentence": 101
+        },
+        {
+            "index": 101,
+            "name": "Richard Barnaby",
+            "sentence": 101
+        },
+        {
+            "index": 102,
+            "name": "Richard Barnaby",
+            "sentence": 102
+        },
+        {
+            "index": 102,
+            "name": "Irina (The Woman)",
+            "sentence": 102
+        },
+        {
+            "index": 102,
+            "name": "Irina (The Woman)",
+            "sentence": 102
+        },
+        {
+            "index": 104,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 104
+        },
+        {
+            "index": 105,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 105
+        },
+        {
+            "index": 106,
+            "name": "Richard Barnaby",
+            "sentence": 106
+        },
+        {
+            "index": 106,
+            "name": "Richard Barnaby",
+            "sentence": 106
+        },
+        {
+            "index": 106,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 106
+        },
+        {
+            "index": 107,
+            "name": "Richard Barnaby",
+            "sentence": 107
+        },
+        {
+            "index": 108,
+            "name": "Richard Barnaby",
+            "sentence": 108
+        },
+        {
+            "index": 108,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 108
+        },
+        {
+            "index": 110,
+            "name": "Richard Barnaby",
+            "sentence": 110
+        },
+        {
+            "index": 111,
+            "name": "Richard Barnaby",
+            "sentence": 111
+        },
+        {
+            "index": 111,
+            "name": "Richard Barnaby",
+            "sentence": 111
+        },
+        {
+            "index": 113,
+            "name": "Richard Barnaby",
+            "sentence": 113
+        },
+        {
+            "index": 113,
+            "name": "Richard Barnaby",
+            "sentence": 113
+        },
+        {
+            "index": 113,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 113
+        },
+        {
+            "index": 113,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 113
+        },
+        {
+            "index": 114,
+            "name": "Richard Barnaby",
+            "sentence": 114
+        },
+        {
+            "index": 116,
+            "name": "Richard Barnaby",
+            "sentence": 116
+        },
+        {
+            "index": 117,
+            "name": "Richard Barnaby",
+            "sentence": 117
+        },
+        {
+            "index": 117,
+            "name": "Richard Barnaby",
+            "sentence": 117
+        },
+        {
+            "index": 119,
+            "name": "Richard Barnaby",
+            "sentence": 119
+        },
+        {
+            "index": 122,
+            "name": "Richard Barnaby",
+            "sentence": 122
+        },
+        {
+            "index": 123,
+            "name": "Richard Barnaby",
+            "sentence": 123
+        },
+        {
+            "index": 123,
+            "name": "Richard Barnaby",
+            "sentence": 123
+        },
+        {
+            "index": 124,
+            "name": "Irina (The Woman)",
+            "sentence": 124
+        },
+        {
+            "index": 124,
+            "name": "Richard Barnaby",
+            "sentence": 124
+        },
+        {
+            "index": 125,
+            "name": "Irina (The Woman)",
+            "sentence": 125
+        },
+        {
+            "index": 125,
+            "name": "Irina (The Woman)",
+            "sentence": 125
+        },
+        {
+            "index": 126,
+            "name": "Irina (The Woman)",
+            "sentence": 126
+        },
+        {
+            "index": 127,
+            "name": "Irina (The Woman)",
+            "sentence": 127
+        },
+        {
+            "index": 127,
+            "name": "Richard Barnaby",
+            "sentence": 127
+        },
+        {
+            "index": 127,
+            "name": "Richard Barnaby",
+            "sentence": 127
+        },
+        {
+            "index": 130,
+            "name": "Irina (The Woman)",
+            "sentence": 130
+        },
+        {
+            "index": 130,
+            "name": "Irina (The Woman)",
+            "sentence": 130
+        },
+        {
+            "index": 131,
+            "name": "Richard Barnaby",
+            "sentence": 131
+        },
+        {
+            "index": 131,
+            "name": "Irina (The Woman)",
+            "sentence": 131
+        },
+        {
+            "index": 133,
+            "name": "Richard Barnaby",
+            "sentence": 133
+        },
+        {
+            "index": 136,
+            "name": "Richard Barnaby",
+            "sentence": 136
+        },
+        {
+            "index": 137,
+            "name": "Richard Barnaby",
+            "sentence": 137
+        },
+        {
+            "index": 138,
+            "name": "Richard Barnaby",
+            "sentence": 138
+        },
+        {
+            "index": 142,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 142
+        },
+        {
+            "index": 143,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 143
+        },
+        {
+            "index": 143,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 143
+        },
+        {
+            "index": 143,
+            "name": "Richard Barnaby",
+            "sentence": 143
+        },
+        {
+            "index": 143,
+            "name": "Richard Barnaby",
+            "sentence": 143
+        },
+        {
+            "index": 144,
+            "name": "Richard Barnaby",
+            "sentence": 144
+        },
+        {
+            "index": 144,
+            "name": "Richard Barnaby",
+            "sentence": 144
+        },
+        {
+            "index": 144,
+            "name": "Richard Barnaby",
+            "sentence": 144
+        },
+        {
+            "index": 146,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 146
+        },
+        {
+            "index": 148,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 148
+        },
+        {
+            "index": 149,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 149
+        },
+        {
+            "index": 149,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 149
+        },
+        {
+            "index": 151,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 151
+        },
+        {
+            "index": 151,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 151
+        },
+        {
+            "index": 151,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 151
+        },
+        {
+            "index": 153,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 153
+        },
+        {
+            "index": 153,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 153
+        },
+        {
+            "index": 155,
+            "name": "Richard Barnaby",
+            "sentence": 155
+        },
+        {
+            "index": 156,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 156
+        },
+        {
+            "index": 158,
+            "name": "Richard Barnaby",
+            "sentence": 158
+        },
+        {
+            "index": 163,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 163
+        },
+        {
+            "index": 163,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 163
+        },
+        {
+            "index": 163,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 163
+        },
+        {
+            "index": 163,
+            "name": "Richard Barnaby",
+            "sentence": 163
+        },
+        {
+            "index": 165,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 165
+        },
+        {
+            "index": 165,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 165
+        },
+        {
+            "index": 165,
+            "name": "Richard Barnaby",
+            "sentence": 165
+        },
+        {
+            "index": 167,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 167
+        },
+        {
+            "index": 167,
+            "name": "Richard Barnaby",
+            "sentence": 167
+        },
+        {
+            "index": 169,
+            "name": "Richard Barnaby",
+            "sentence": 169
+        },
+        {
+            "index": 169,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 169
+        },
+        {
+            "index": 170,
+            "name": "Richard Barnaby",
+            "sentence": 170
+        },
+        {
+            "index": 173,
+            "name": "Richard Barnaby",
+            "sentence": 173
+        },
+        {
+            "index": 176,
+            "name": "Richard Barnaby",
+            "sentence": 176
+        },
+        {
+            "index": 176,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 176
+        },
+        {
+            "index": 178,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 178
+        },
+        {
+            "index": 180,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 180
+        },
+        {
+            "index": 181,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 181
+        },
+        {
+            "index": 183,
+            "name": "Richard Barnaby",
+            "sentence": 183
+        },
+        {
+            "index": 183,
+            "name": "Richard Barnaby",
+            "sentence": 183
+        },
+        {
+            "index": 183,
+            "name": "Richard Barnaby",
+            "sentence": 183
+        },
+        {
+            "index": 184,
+            "name": "Richard Barnaby",
+            "sentence": 184
+        },
+        {
+            "index": 186,
+            "name": "Irina (The Woman)",
+            "sentence": 186
+        },
+        {
+            "index": 186,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 186
+        },
+        {
+            "index": 187,
+            "name": "Irina (The Woman)",
+            "sentence": 187
+        },
+        {
+            "index": 187,
+            "name": "Irina (The Woman)",
+            "sentence": 187
+        },
+        {
+            "index": 187,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 187
+        },
+        {
+            "index": 187,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 187
+        },
+        {
+            "index": 188,
+            "name": "Richard Barnaby",
+            "sentence": 188
+        },
+        {
+            "index": 188,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 188
+        },
+        {
+            "index": 189,
+            "name": "Richard Barnaby",
+            "sentence": 189
+        },
+        {
+            "index": 189,
+            "name": "Richard Barnaby",
+            "sentence": 189
+        },
+        {
+            "index": 189,
+            "name": "Irina (The Woman)",
+            "sentence": 189
+        },
+        {
+            "index": 190,
+            "name": "Irina (The Woman)",
+            "sentence": 190
+        },
+        {
+            "index": 190,
+            "name": "Irina (The Woman)",
+            "sentence": 190
+        },
+        {
+            "index": 190,
+            "name": "Irina (The Woman)",
+            "sentence": 190
+        },
+        {
+            "index": 190,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 190
+        },
+        {
+            "index": 192,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 192
+        },
+        {
+            "index": 192,
+            "name": "Irina (The Woman)",
+            "sentence": 192
+        },
+        {
+            "index": 193,
+            "name": "Richard Barnaby",
+            "sentence": 193
+        },
+        {
+            "index": 193,
+            "name": "Richard Barnaby",
+            "sentence": 193
+        },
+        {
+            "index": 193,
+            "name": "Irina (The Woman)",
+            "sentence": 193
+        },
+        {
+            "index": 196,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 196
+        },
+        {
+            "index": 196,
+            "name": "Irina (The Woman)",
+            "sentence": 196
+        },
+        {
+            "index": 197,
+            "name": "Richard Barnaby",
+            "sentence": 197
+        },
+        {
+            "index": 197,
+            "name": "Richard Barnaby",
+            "sentence": 197
+        },
+        {
+            "index": 198,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 198
+        },
+        {
+            "index": 198,
+            "name": "Richard Barnaby",
+            "sentence": 198
+        },
+        {
+            "index": 199,
+            "name": "Richard Barnaby",
+            "sentence": 199
+        },
+        {
+            "index": 199,
+            "name": "Irina (The Woman)",
+            "sentence": 199
+        },
+        {
+            "index": 200,
+            "name": "Richard Barnaby",
+            "sentence": 200
+        },
+        {
+            "index": 201,
+            "name": "Irina (The Woman)",
+            "sentence": 201
+        },
+        {
+            "index": 202,
+            "name": "Richard Barnaby",
+            "sentence": 202
+        },
+        {
+            "index": 202,
+            "name": "Richard Barnaby",
+            "sentence": 202
+        },
+        {
+            "index": 202,
+            "name": "Irina (The Woman)",
+            "sentence": 202
+        },
+        {
+            "index": 202,
+            "name": "Irina (The Woman)",
+            "sentence": 202
+        },
+        {
+            "index": 203,
+            "name": "Irina (The Woman)",
+            "sentence": 203
+        },
+        {
+            "index": 203,
+            "name": "Irina (The Woman)",
+            "sentence": 203
+        },
+        {
+            "index": 204,
+            "name": "Irina (The Woman)",
+            "sentence": 204
+        },
+        {
+            "index": 206,
+            "name": "Irina (The Woman)",
+            "sentence": 206
+        },
+        {
+            "index": 207,
+            "name": "Irina (The Woman)",
+            "sentence": 207
+        },
+        {
+            "index": 207,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 207
+        },
+        {
+            "index": 207,
+            "name": "Richard Barnaby",
+            "sentence": 207
+        },
+        {
+            "index": 208,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 208
+        },
+        {
+            "index": 209,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 209
+        },
+        {
+            "index": 211,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 211
+        },
+        {
+            "index": 211,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 211
+        },
+        {
+            "index": 212,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 212
+        },
+        {
+            "index": 212,
+            "name": "Irina (The Woman)",
+            "sentence": 212
+        },
+        {
+            "index": 215,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 215
+        },
+        {
+            "index": 215,
+            "name": "Irina (The Woman)",
+            "sentence": 215
+        },
+        {
+            "index": 216,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 216
+        },
+        {
+            "index": 216,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 216
+        },
+        {
+            "index": 216,
+            "name": "Irina (The Woman)",
+            "sentence": 216
+        },
+        {
+            "index": 216,
+            "name": "Irina (The Woman)",
+            "sentence": 216
+        },
+        {
+            "index": 217,
+            "name": "Richard Barnaby",
+            "sentence": 217
+        },
+        {
+            "index": 217,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 217
+        },
+        {
+            "index": 217,
+            "name": "Irina (The Woman)",
+            "sentence": 217
+        },
+        {
+            "index": 218,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 218
+        },
+        {
+            "index": 218,
+            "name": "Irina (The Woman)",
+            "sentence": 218
+        },
+        {
+            "index": 219,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 219
+        },
+        {
+            "index": 219,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 219
+        },
+        {
+            "index": 221,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 221
+        },
+        {
+            "index": 221,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 221
+        },
+        {
+            "index": 221,
+            "name": "Richard Barnaby",
+            "sentence": 221
+        },
+        {
+            "index": 223,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 223
+        },
+        {
+            "index": 223,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 223
+        },
+        {
+            "index": 224,
+            "name": "Irina (The Woman)",
+            "sentence": 224
+        },
+        {
+            "index": 226,
+            "name": "Irina (The Woman)",
+            "sentence": 226
+        },
+        {
+            "index": 226,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 226
+        },
+        {
+            "index": 227,
+            "name": "Irina (The Woman)",
+            "sentence": 227
+        },
+        {
+            "index": 227,
+            "name": "Richard Barnaby",
+            "sentence": 227
+        },
+        {
+            "index": 228,
+            "name": "Richard Barnaby",
+            "sentence": 228
+        },
+        {
+            "index": 229,
+            "name": "Richard Barnaby",
+            "sentence": 229
+        },
+        {
+            "index": 229,
+            "name": "Irina (The Woman)",
+            "sentence": 229
+        },
+        {
+            "index": 230,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 230
+        },
+        {
+            "index": 231,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 231
+        },
+        {
+            "index": 231,
+            "name": "Irina (The Woman)",
+            "sentence": 231
+        },
+        {
+            "index": 233,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 233
+        },
+        {
+            "index": 233,
+            "name": "Irina (The Woman)",
+            "sentence": 233
+        },
+        {
+            "index": 235,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 235
+        },
+        {
+            "index": 236,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 236
+        },
+        {
+            "index": 237,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 237
+        },
+        {
+            "index": 238,
+            "name": "Richard Barnaby",
+            "sentence": 238
+        },
+        {
+            "index": 238,
+            "name": "Richard Barnaby",
+            "sentence": 238
+        },
+        {
+            "index": 239,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 239
+        },
+        {
+            "index": 239,
+            "name": "Richard Barnaby",
+            "sentence": 239
+        },
+        {
+            "index": 241,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 241
+        },
+        {
+            "index": 243,
+            "name": "Richard Barnaby",
+            "sentence": 243
+        },
+        {
+            "index": 245,
+            "name": "Richard Barnaby",
+            "sentence": 245
+        },
+        {
+            "index": 247,
+            "name": "Richard Barnaby",
+            "sentence": 247
+        },
+        {
+            "index": 249,
+            "name": "Richard Barnaby",
+            "sentence": 249
+        },
+        {
+            "index": 251,
+            "name": "Richard Barnaby",
+            "sentence": 251
+        },
+        {
+            "index": 252,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 252
+        },
+        {
+            "index": 254,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 254
+        },
+        {
+            "index": 257,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 257
+        },
+        {
+            "index": 258,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 258
+        },
+        {
+            "index": 259,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 259
+        },
+        {
+            "index": 262,
+            "name": "Richard Barnaby",
+            "sentence": 262
+        },
+        {
+            "index": 264,
+            "name": "Richard Barnaby",
+            "sentence": 264
+        },
+        {
+            "index": 267,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 267
+        },
+        {
+            "index": 269,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 269
+        },
+        {
+            "index": 271,
+            "name": "Irina (The Woman)",
+            "sentence": 271
+        },
+        {
+            "index": 273,
+            "name": "Irina (The Woman)",
+            "sentence": 273
+        },
+        {
+            "index": 275,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 275
+        },
+        {
+            "index": 277,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 277
+        },
+        {
+            "index": 278,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 278
+        },
+        {
+            "index": 278,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 278
+        },
+        {
+            "index": 280,
+            "name": "Richard Barnaby",
+            "sentence": 280
+        },
+        {
+            "index": 281,
+            "name": "Richard Barnaby",
+            "sentence": 281
+        },
+        {
+            "index": 283,
+            "name": "Richard Barnaby",
+            "sentence": 283
+        },
+        {
+            "index": 284,
+            "name": "Richard Barnaby",
+            "sentence": 284
+        },
+        {
+            "index": 285,
+            "name": "Richard Barnaby",
+            "sentence": 285
+        },
+        {
+            "index": 287,
+            "name": "Richard Barnaby",
+            "sentence": 287
+        },
+        {
+            "index": 289,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 288
+        },
+        {
+            "index": 292,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 292
+        },
+        {
+            "index": 292,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 292
+        },
+        {
+            "index": 294,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 294
+        },
+        {
+            "index": 294,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 294
+        },
+        {
+            "index": 296,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 295
+        },
+        {
+            "index": 298,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 298
+        },
+        {
+            "index": 299,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 299
+        },
+        {
+            "index": 301,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 301
+        },
+        {
+            "index": 303,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 303
+        },
+        {
+            "index": 303,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 303
+        },
+        {
+            "index": 305,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 305
+        },
+        {
+            "index": 305,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 305
+        },
+        {
+            "index": 307,
+            "name": "Uwe (The Bearded Man)",
+            "sentence": 307
+        },
+        {
+            "index": 307,
+            "name": "Mr. Lee (The Asian Man)",
+            "sentence": 307
+        },
+        {
+            "index": 310,
+            "name": "Richard Barnaby",
+            "sentence": 310
+        },
+        {
+            "index": 311,
+            "name": "Richard Barnaby",
+            "sentence": 311
+        }
+    ],
+    "edges": [
+        {
+            "source": "Christa Barnaby",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Christa Barnaby",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Christa Barnaby",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Christa Barnaby",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Christa Barnaby",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Christa Barnaby",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Christa Barnaby",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Christa Barnaby",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Christa Barnaby",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Christa Barnaby",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Christa Barnaby",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Christa Barnaby",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Uwe (The Bearded Man)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Uwe (The Bearded Man)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Uwe (The Bearded Man)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Uwe (The Bearded Man)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Uwe (The Bearded Man)",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Uwe (The Bearded Man)",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Uwe (The Bearded Man)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Uwe (The Bearded Man)",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Uwe (The Bearded Man)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Uwe (The Bearded Man)",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Uwe (The Bearded Man)",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Uwe (The Bearded Man)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Irina (The Woman)",
+            "target": "Richard Barnaby",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Irina (The Woman)",
+            "value": 1
+        },
+        {
+            "source": "Richard Barnaby",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        },
+        {
+            "source": "Mr. Lee (The Asian Man)",
+            "target": "Uwe (The Bearded Man)",
+            "value": 1
+        }
+    ],
+    "wordcloud": {
+        "df": {},
+        "words": {
+            "words": {
+                "Christa Barnaby": [
+                    "slid",
+                    "sulky",
+                    "said",
+                    "whiny",
+                    "grimace",
+                    "pout",
+                    "pushed",
+                    "scowled",
+                    "countered",
+                    "petulantly",
+                    "turned",
+                    "poling",
+                    "called",
+                    "save",
+                    "retreating"
+
+                ],
+                "Irina (The Woman)": [
+                    "went",
+                    "young",
+                    "slim",
+                    "dropped",
+                    "exclaimed",
+                    "turning",
+                    "abruptly",
+                    "raised",
+                    "heart-shaped",
+                    "lovely",
+                    "pale",
+                    "took",
+                    "smiling",
+                    "sweetly",
+                    "ignoring",
+                    "gazing",
+                    "loudly",
+                    "worried",
+                    "Italian",
+                    "looked",
+                    "repeated",
+                    "standing",
+                    "placed",
+                    "young",
+                    "white",
+                    "caress",
+                    "pleading",
+                    "scared",
+                    "beautiful",
+                    "radiant",
+                    "Slavic",
+                    "satin",
+                    "feline",
+                    "hungry",
+                    "looked",
+                    "resolutely",
+                    "turned",
+                    "guided",
+                    "towing",
+                    "snuggled",
+                    "smiled",
+                    "protested"  
+                ],
+                "Richard Barnaby": [
+                    "said",
+                    "crested",
+                    "slid",
+                    "turned",
+                    "smile",
+                    "hoped",
+                    "sure",
+                    "suppressed",
+                    "exasperated",
+                    "leaned",
+                    "smile",
+                    "remarked",
+                    "joviality",
+                    "resent",
+                    "smiled",
+                    "jabbing",
+                    "chuckled",
+                    "smile",
+                    "shrugged",
+                    "smiled",
+                    "sighed",
+                    "looking",
+                    "turned",
+                    "deftly",
+                    "realized",
+                    "rounded",
+                    "gratified",
+                    "caught",
+                    "slid",
+                    "sank",
+                    "smiled",
+                    "satisfaction",
+                    "filing",
+                    "stepped",
+                    "lined",
+                    "sneaking",
+                    "stepped",
+                    "thought",
+                    "shrugged",
+                    "guessed",
+                    "shuffled",
+                    "stepping",
+                    "stammered",
+                    "brandishing",
+                    "feeling",
+                    "blushed",
+                    "hoped",
+                    "shook",
+                    "leaned",
+                    "absently",
+                    "covertly",
+                    "nodded",
+                    "averted",
+                    "ogling",
+                    "uncomfortable",
+                    "consumed",
+                    "curiousity",
+                    "staring",
+                    "lost",
+                    "directed",
+                    "felt",
+                    "gazed",
+                    "strong",
+                    "tired",
+                    "spotted",
+                    "lost",
+                    "daydreaming",
+                    "realized",
+                    "watched",
+                    "twisting",
+                    "grabbed",
+                    "fell",
+                    "nodded",
+                    "swallowed",
+                    "swallowed",
+                    "desperately",
+                    "wondering",
+                    "glanced",
+                    "jealousy",
+                    "scratched",
+                    "thought",
+                    "observed",
+                    "rattled",
+                    "shook",
+                    "nodding",
+                    "shrugged",
+                    "glanced",
+                    "instinctively",
+                    "huddling",
+                    "swallowed",
+                    "jubilantly"
+                ],
+                "Mr. Lee (The Asian Man)": [
+                    "thin",
+                    "short",
+                    "noticed",
+                    "turned",
+                    "asian",
+                    "straining",
+                    "calmly",
+                    "meekly",
+                    "inadvertently",
+                    "leaning",
+                    "bemused",
+                    "staring",
+                    "smile",
+                    "glance",
+                    "smile",
+                    "nodded",
+                    "sagely",
+                    "calmly",
+                    "thumped",
+                    "smiled",
+                    "sadly",
+                    "unconvinced",
+                    "smiled",
+                    "mildly",
+                    "pointed"
+                ],
+                "Uwe (The Bearded Man)": [
+                    "tall",
+                    "powerful",
+                    "said",
+                    "slipped",
+                    "cursed",
+                    "german",
+                    "thumped",
+                    "rapid",
+                    "yelled",
+                    "abrupt",
+                    "glare",
+                    "stammered",
+                    "deflating",
+                    "muttered",
+                    "worshipful",
+                    "smiled",
+                    "vacuously",
+                    "apologetic",
+                    "excited",
+                    "startled"
+                ]
+            }
+        }
+    }
+
+}

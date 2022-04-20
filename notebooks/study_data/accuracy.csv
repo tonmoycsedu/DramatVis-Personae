@@ -1,0 +1,23 @@
+Participant,Interface,Story,T1,T2,T3,T4,T5,T6,T7,Score
+P1,Baseline,A kiss of Ice,1,1,0,0,1,1,1,71.42857143
+P1,DVP,The Prisoners,1,1,1,1,1,1,1,100
+P2,DVP,A kiss of Ice,1,1,1,1,1,1,1,100
+P2,Baseline,The Prisoners,1,0,0,1,1,1,1,71.42857143
+P3,Baseline,A kiss of Ice,0,1,1,1,0,1,0,57.14285714
+P3,DVP,The Prisoners,1,1,1,1,1,0,1,85.71428571
+P4,DVP,A kiss of Ice,1,1,1,1,1,0,1,85.71428571
+P4,Baseline,The Prisoners,1,0,0,0,1,0,0,28.57142857
+P5,Baseline,The Prisoners,1,0,1,0,0,1,0,42.85714286
+P5,DVP,A kiss of Ice,1,1,1,1,1,1,1,100
+P6,Baseline,The Prisoners,1,1,0,0,1,0,1,57.14285714
+P6,DVP,A kiss of Ice,1,1,1,1,1,1,1,100
+P7,DVP,The Prisoners,1,1,1,1,1,1,0,85.71428571
+P7,Baseline,A kiss of Ice,1,1,0,0,0,1,1,57.14285714
+P8,Baseline,A kiss of Ice,1,1,0,1,0,1,0,57.14285714
+P8,DVP,The Prisoners,1,1,1,1,1,1,1,100
+P9,DVP,A kiss of Ice,1,1,1,1,1,0,1,85.71428571
+P9,Baseline,The Prisoners,1,1,0,0,1,1,1,71.42857143
+P10,Baseline,A kiss of Ice,1,1,0,0,1,1,1,71.42857143
+P10,DVP,The Prisoners,1,1,0,1,1,0,1,71.42857143
+P11,Baseline,The Prisoners,1,0,0,0,0,0,1,28.57142857
+P11,DVP,A kiss of Ice,1,1,1,1,1,1,1,100

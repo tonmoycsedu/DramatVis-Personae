@@ -1,0 +1,1175 @@
+{
+    "entities": {
+        "Chang": 1,
+        "Eric": 1,
+        "Jackson": 1,
+        "Jackson Eric": 1,
+        "Jane": 1,
+        "Jane Eric": 1,
+        "Monica": 1
+    },
+    "characters": [
+        {
+            "name": "Chang",
+            "trimmed_name": "chang",
+            "demographics": {
+                "Gender": "Non Binary",
+                "Race": "Asian",
+                "Age": "Old"
+            },
+            "Gender": "Non Binary",
+            "Race": "Asian",
+            "Age": "Old"
+        },
+        {
+            "name": "Eric",
+            "trimmed_name": "eric",
+            "demographics": {
+                "Gender": "Male",
+                "Race": "White",
+                "Age": "Middle-aged"
+            },
+            "Gender": "Male",
+            "Race": "White",
+            "Age": "Middle-aged"
+        },
+        {
+            "name": "Jackson",
+            "trimmed_name": "jackson",
+            "demographics": {
+                "Gender": "Male",
+                "Race": "Black",
+                "Age": "Young"
+            },
+            "Gender": "Male",
+            "Race": "Black",
+            "Age": "Young"
+        },
+        {
+            "name": "Jane",
+            "trimmed_name": "jane",
+            "demographics": {
+                "Gender": "Female",
+                "Race": "Black",
+                "Age": "Middle-aged"
+            },
+            "Gender": "Female",
+            "Race": "Black",
+            "Age": "Middle-aged"
+        },
+        {
+            "name": "Monica",
+            "trimmed_name": "monica",
+            "demographics": {
+                "Gender": "Female",
+                "Race": "Black",
+                "Age": "Middle-aged"
+            },
+            "Gender": "Female",
+            "Race": "Black",
+            "Age": "Middle-aged"
+        }
+    ],
+    "sentence_limits": {
+        "0": 0,
+        "1": 87,
+        "2": 165,
+        "3": 266,
+        "4": 300,
+        "5": 447,
+        "6": 531,
+        "7": 628,
+        "8": 749,
+        "9": 836,
+        "10": 850,
+        "11": 901,
+        "12": 1038,
+        "13": 1090,
+        "14": 1247,
+        "15": 1342,
+        "16": 1463,
+        "17": 1542,
+        "18": 1636,
+        "19": 1759,
+        "20": 1872,
+        "21": 1960,
+        "22": 2062,
+        "23": 2130,
+        "24": 2185,
+        "25": 2310,
+        "26": 2357,
+        "27": 2520,
+        "28": 2597,
+        "29": 2638,
+        "30": 2713,
+        "31": 2871,
+        "32": 3056,
+        "33": 3166,
+        "34": 3325,
+        "35": 3414,
+        "36": 3642,
+        "37": 3731,
+        "38": 3782,
+        "39": 3894,
+        "40": 3953,
+        "41": 4090,
+        "42": 4194,
+        "43": 4259,
+        "44": 4383,
+        "45": 4480,
+        "46": 4761,
+        "47": 4853,
+        "48": 4921,
+        "49": 4973,
+        "50": 5083,
+        "51": 5197,
+        "52": 5267,
+        "53": 5312,
+        "54": 5430,
+        "55": 5495,
+        "56": 5566,
+        "57": 5629,
+        "58": 5709,
+        "59": 5803,
+        "60": 5881,
+        "61": 5973,
+        "62": 6041,
+        "63": 6098,
+        "64": 6240,
+        "65": 6342,
+        "66": 6450,
+        "67": 6566,
+        "68": 6694,
+        "69": 6755,
+        "70": 6871,
+        "71": 6970,
+        "72": 7028,
+        "73": 7149,
+        "74": 7248,
+        "75": 7340,
+        "76": 7440,
+        "77": 7552,
+        "78": 7647,
+        "79": 7725,
+        "80": 7794,
+        "81": 7893,
+        "82": 7977,
+        "83": 8090,
+        "84": 8130,
+        "85": 8250
+    },
+    "msg": "success",
+    "timeline": [
+        {
+            "index": 2,
+            "name": "Jackson",
+            "sentence": 2
+        },
+        {
+            "index": 2,
+            "name": "Jackson",
+            "sentence": 2
+        },
+        {
+            "index": 4,
+            "name": "Chang",
+            "sentence": 4
+        },
+        {
+            "index": 4,
+            "name": "Chang",
+            "sentence": 4
+        },
+        {
+            "index": 4,
+            "name": "Jackson",
+            "sentence": 4
+        },
+        {
+            "index": 5,
+            "name": "Jackson",
+            "sentence": 5
+        },
+        {
+            "index": 6,
+            "name": "Eric",
+            "sentence": 6
+        },
+        {
+            "index": 6,
+            "name": "Eric",
+            "sentence": 6
+        },
+        {
+            "index": 7,
+            "name": "Eric",
+            "sentence": 7
+        },
+        {
+            "index": 7,
+            "name": "Eric",
+            "sentence": 7
+        },
+        {
+            "index": 8,
+            "name": "Eric",
+            "sentence": 8
+        },
+        {
+            "index": 8,
+            "name": "Jackson",
+            "sentence": 8
+        },
+        {
+            "index": 10,
+            "name": "Eric",
+            "sentence": 10
+        },
+        {
+            "index": 10,
+            "name": "Jackson",
+            "sentence": 10
+        },
+        {
+            "index": 11,
+            "name": "Jackson",
+            "sentence": 11
+        },
+        {
+            "index": 12,
+            "name": "Eric",
+            "sentence": 12
+        },
+        {
+            "index": 12,
+            "name": "Jackson",
+            "sentence": 12
+        },
+        {
+            "index": 13,
+            "name": "Eric",
+            "sentence": 13
+        },
+        {
+            "index": 13,
+            "name": "Jackson",
+            "sentence": 13
+        },
+        {
+            "index": 13,
+            "name": "Jane",
+            "sentence": 13
+        },
+        {
+            "index": 13,
+            "name": "Jane",
+            "sentence": 13
+        },
+        {
+            "index": 13,
+            "name": "Jane",
+            "sentence": 13
+        },
+        {
+            "index": 14,
+            "name": "Eric",
+            "sentence": 14
+        },
+        {
+            "index": 14,
+            "name": "Jane",
+            "sentence": 14
+        },
+        {
+            "index": 15,
+            "name": "Monica",
+            "sentence": 15
+        },
+        {
+            "index": 16,
+            "name": "Eric",
+            "sentence": 16
+        },
+        {
+            "index": 16,
+            "name": "Chang",
+            "sentence": 16
+        },
+        {
+            "index": 17,
+            "name": "Eric",
+            "sentence": 17
+        },
+        {
+            "index": 17,
+            "name": "Chang",
+            "sentence": 17
+        },
+        {
+            "index": 18,
+            "name": "Chang",
+            "sentence": 18
+        },
+        {
+            "index": 19,
+            "name": "Eric",
+            "sentence": 19
+        },
+        {
+            "index": 19,
+            "name": "Chang",
+            "sentence": 19
+        },
+        {
+            "index": 20,
+            "name": "Chang",
+            "sentence": 20
+        },
+        {
+            "index": 21,
+            "name": "Chang",
+            "sentence": 21
+        },
+        {
+            "index": 22,
+            "name": "Chang",
+            "sentence": 22
+        },
+        {
+            "index": 22,
+            "name": "Jane",
+            "sentence": 22
+        },
+        {
+            "index": 23,
+            "name": "Chang",
+            "sentence": 23
+        },
+        {
+            "index": 23,
+            "name": "Jane",
+            "sentence": 23
+        },
+        {
+            "index": 24,
+            "name": "Chang",
+            "sentence": 24
+        },
+        {
+            "index": 25,
+            "name": "Chang",
+            "sentence": 25
+        },
+        {
+            "index": 25,
+            "name": "Jane",
+            "sentence": 25
+        },
+        {
+            "index": 26,
+            "name": "Chang",
+            "sentence": 26
+        },
+        {
+            "index": 27,
+            "name": "Eric",
+            "sentence": 27
+        },
+        {
+            "index": 28,
+            "name": "Chang",
+            "sentence": 28
+        },
+        {
+            "index": 28,
+            "name": "Eric",
+            "sentence": 28
+        },
+        {
+            "index": 29,
+            "name": "Chang",
+            "sentence": 29
+        },
+        {
+            "index": 29,
+            "name": "Eric",
+            "sentence": 29
+        },
+        {
+            "index": 30,
+            "name": "Chang",
+            "sentence": 30
+        },
+        {
+            "index": 30,
+            "name": "Jane",
+            "sentence": 30
+        },
+        {
+            "index": 31,
+            "name": "Chang",
+            "sentence": 31
+        },
+        {
+            "index": 31,
+            "name": "Jane",
+            "sentence": 31
+        },
+        {
+            "index": 32,
+            "name": "Chang",
+            "sentence": 32
+        },
+        {
+            "index": 32,
+            "name": "Jane",
+            "sentence": 32
+        },
+        {
+            "index": 32,
+            "name": "Eric",
+            "sentence": 32
+        },
+        {
+            "index": 35,
+            "name": "Jackson",
+            "sentence": 35
+        },
+        {
+            "index": 35,
+            "name": "Jackson",
+            "sentence": 35
+        },
+        {
+            "index": 36,
+            "name": "Jackson",
+            "sentence": 36
+        },
+        {
+            "index": 37,
+            "name": "Jackson",
+            "sentence": 37
+        },
+        {
+            "index": 37,
+            "name": "Jackson",
+            "sentence": 37
+        },
+        {
+            "index": 39,
+            "name": "Jackson",
+            "sentence": 39
+        },
+        {
+            "index": 40,
+            "name": "Jackson",
+            "sentence": 40
+        },
+        {
+            "index": 40,
+            "name": "Jackson",
+            "sentence": 40
+        },
+        {
+            "index": 41,
+            "name": "Jackson",
+            "sentence": 41
+        },
+        {
+            "index": 41,
+            "name": "Eric",
+            "sentence": 41
+        },
+        {
+            "index": 44,
+            "name": "Jackson",
+            "sentence": 44
+        },
+        {
+            "index": 44,
+            "name": "Eric",
+            "sentence": 44
+        },
+        {
+            "index": 45,
+            "name": "Jackson",
+            "sentence": 45
+        },
+        {
+            "index": 45,
+            "name": "Jackson",
+            "sentence": 45
+        },
+        {
+            "index": 46,
+            "name": "Chang",
+            "sentence": 46
+        },
+        {
+            "index": 47,
+            "name": "Chang",
+            "sentence": 47
+        },
+        {
+            "index": 48,
+            "name": "Chang",
+            "sentence": 48
+        },
+        {
+            "index": 49,
+            "name": "Chang",
+            "sentence": 49
+        },
+        {
+            "index": 50,
+            "name": "Eric",
+            "sentence": 50
+        },
+        {
+            "index": 50,
+            "name": "Monica",
+            "sentence": 50
+        },
+        {
+            "index": 51,
+            "name": "Jackson",
+            "sentence": 51
+        },
+        {
+            "index": 52,
+            "name": "Monica",
+            "sentence": 52
+        },
+        {
+            "index": 53,
+            "name": "Monica",
+            "sentence": 53
+        },
+        {
+            "index": 53,
+            "name": "Monica",
+            "sentence": 53
+        },
+        {
+            "index": 54,
+            "name": "Jane",
+            "sentence": 54
+        },
+        {
+            "index": 54,
+            "name": "Jane",
+            "sentence": 54
+        },
+        {
+            "index": 55,
+            "name": "Jackson",
+            "sentence": 55
+        },
+        {
+            "index": 55,
+            "name": "Eric",
+            "sentence": 55
+        },
+        {
+            "index": 57,
+            "name": "Jane",
+            "sentence": 57
+        },
+        {
+            "index": 57,
+            "name": "Jane",
+            "sentence": 57
+        },
+        {
+            "index": 57,
+            "name": "Monica",
+            "sentence": 57
+        },
+        {
+            "index": 58,
+            "name": "Chang",
+            "sentence": 58
+        },
+        {
+            "index": 59,
+            "name": "Jane",
+            "sentence": 59
+        },
+        {
+            "index": 59,
+            "name": "Chang",
+            "sentence": 59
+        },
+        {
+            "index": 60,
+            "name": "Jane",
+            "sentence": 60
+        },
+        {
+            "index": 60,
+            "name": "Chang",
+            "sentence": 60
+        },
+        {
+            "index": 60,
+            "name": "Chang",
+            "sentence": 60
+        },
+        {
+            "index": 60,
+            "name": "Chang",
+            "sentence": 60
+        },
+        {
+            "index": 63,
+            "name": "Jane",
+            "sentence": 63
+        },
+        {
+            "index": 63,
+            "name": "Chang",
+            "sentence": 63
+        },
+        {
+            "index": 65,
+            "name": "Jane",
+            "sentence": 65
+        },
+        {
+            "index": 65,
+            "name": "Chang",
+            "sentence": 65
+        },
+        {
+            "index": 65,
+            "name": "Eric",
+            "sentence": 65
+        },
+        {
+            "index": 67,
+            "name": "Jackson",
+            "sentence": 67
+        },
+        {
+            "index": 68,
+            "name": "Jackson",
+            "sentence": 68
+        },
+        {
+            "index": 69,
+            "name": "Jackson",
+            "sentence": 69
+        },
+        {
+            "index": 70,
+            "name": "Jackson",
+            "sentence": 70
+        },
+        {
+            "index": 70,
+            "name": "Jackson",
+            "sentence": 70
+        },
+        {
+            "index": 72,
+            "name": "Jackson",
+            "sentence": 72
+        },
+        {
+            "index": 72,
+            "name": "Monica",
+            "sentence": 72
+        },
+        {
+            "index": 72,
+            "name": "Jane",
+            "sentence": 72
+        },
+        {
+            "index": 72,
+            "name": "Eric",
+            "sentence": 72
+        },
+        {
+            "index": 73,
+            "name": "Jane",
+            "sentence": 73
+        },
+        {
+            "index": 73,
+            "name": "Eric",
+            "sentence": 73
+        },
+        {
+            "index": 73,
+            "name": "Jackson",
+            "sentence": 73
+        },
+        {
+            "index": 74,
+            "name": "Jane",
+            "sentence": 74
+        },
+        {
+            "index": 74,
+            "name": "Eric",
+            "sentence": 74
+        },
+        {
+            "index": 75,
+            "name": "Jackson",
+            "sentence": 75
+        },
+        {
+            "index": 77,
+            "name": "Eric",
+            "sentence": 77
+        },
+        {
+            "index": 77,
+            "name": "Jackson",
+            "sentence": 77
+        },
+        {
+            "index": 79,
+            "name": "Jackson",
+            "sentence": 79
+        },
+        {
+            "index": 80,
+            "name": "Jackson",
+            "sentence": 80
+        },
+        {
+            "index": 81,
+            "name": "Eric",
+            "sentence": 81
+        },
+        {
+            "index": 81,
+            "name": "Jackson",
+            "sentence": 81
+        },
+        {
+            "index": 81,
+            "name": "Jackson",
+            "sentence": 81
+        },
+        {
+            "index": 82,
+            "name": "Eric",
+            "sentence": 82
+        },
+        {
+            "index": 82,
+            "name": "Jackson",
+            "sentence": 82
+        },
+        {
+            "index": 82,
+            "name": "Jackson",
+            "sentence": 82
+        },
+        {
+            "index": 83,
+            "name": "Jackson",
+            "sentence": 83
+        },
+        {
+            "index": 83,
+            "name": "Monica",
+            "sentence": 83
+        },
+        {
+            "index": 84,
+            "name": "Jackson",
+            "sentence": 84
+        },
+        {
+            "index": 84,
+            "name": "Jackson",
+            "sentence": 84
+        },
+        {
+            "index": 84,
+            "name": "Monica",
+            "sentence": 84
+        },
+        {
+            "index": 85,
+            "name": "Jackson",
+            "sentence": 85
+        }
+    ],
+    "edges": [
+        {
+            "source": "Chang",
+            "target": "Jackson",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jane",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jane",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jane",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Monica",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jane",
+            "target": "Monica",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Chang",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jane",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Monica",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Monica",
+            "target": "Jane",
+            "value": 1
+        },
+        {
+            "source": "Monica",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jane",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jane",
+            "target": "Jackson",
+            "value": 1
+        },
+        {
+            "source": "Jane",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jane",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Eric",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Monica",
+            "value": 1
+        },
+        {
+            "source": "Jackson",
+            "target": "Monica",
+            "value": 1
+        }
+    ],
+    "wordcloud": {
+        "df": {},
+        "words": {
+            "words": {
+                "Chang": [
+                    "demand",
+                    "aging", 
+                    "chuckle", 
+                    "reply", 
+                    "kill",
+                    "answered", 
+                    "disappointment",
+                    "ask",
+                    "express",
+                    "regretfully",
+                    "halt",
+                    "blurted",
+                    "watch",
+                    "smile",
+                    "smile",
+                    "move"
+                ],
+                "Eric": [
+                    "sat",
+                    "playing",
+                    "managed",
+                    "intimidating",
+                    "looked",
+                    "inquired",
+                    "shout",
+                    "glare",
+                    "managed",
+                    "spat",
+                    "turn",
+                    "demand",
+                    "laugh",
+                    "snigger",
+                    "humorously",
+                    "flip",
+                    "maintain",
+                    "bitter",
+                    "cheer",
+                    "exhilaration",
+                    "opened",
+                    "shout",
+                    "inquire",
+                    "disturbed",
+                    "said",
+                    "loudly",
+                    "said"
+                ],
+                "Jackson": [
+                    "banged",
+                    "frustratingly",
+                    "gritted",
+                    "turn",
+                    "slid",
+                    "agony",
+                    "frustration",
+                    "sat",
+                    "hopelessly",
+                    "jump",
+                    "wrap",
+                    "expressionless",
+                    "shove",
+                    "remove",
+                    "release",
+                    "began",
+                    "gesture",
+                    "grab",
+                    "clamp",
+                    "deliver",
+                    "twisted",
+                    "move",
+                    "pounce",
+                    "catch",
+                    "threw",
+                    "twisted",
+                    "push",
+                    "held",
+                    "took",
+                    "gesture",
+                    "spoke",
+                    "aimed",
+                    "declare",
+                    "replied",
+                    "waited",
+                    "dived"
+                ],
+                "Jackson Eric": [
+                    "jump",
+                    "hear",
+                    "begin",
+                    "move",
+                    "look",
+                    "few"
+                ],
+                "Jane": [
+                    "snap",
+                    "lay",
+                    "sip",
+                    "ask",
+                    "serene",
+                    "demand",
+                    "charming",
+                    "beautiful",
+                    "cold",
+                    "emotional",
+                    "demand",
+                    "shout",
+                    "gesture",
+                    "yell",
+                    "nodded",
+                    "jump",
+                    "whisper"
+                ],
+                "Jane Eric": [
+                    "star"
+                ],
+                "Monica": [
+                    "lay",
+                    "stare",
+                    "threw",
+                    "irritated",
+                    "look",
+                    "shock",
+                    "exclaim",
+                    "express",
+                    "shock",
+                    "demand"
+                ]
+            }
+        }
+    }
+}

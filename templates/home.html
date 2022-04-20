@@ -1,0 +1,61 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-lg-12">
+			<a href="{{url_for('editor', name= 'none', story_type='user')}}"><button class="ui button blue">New Story</button></a>
+		</div>
+		<div class="col-lg-4">
+            <!-- <h2>Home</h2> -->			
+            <div id="story_list" class="ui divided list">
+				<h2>Saved Projects</h2>
+				{%for name in project_names:%}
+					<div class="item">
+						<i class="close icon delete_story" name="{{name}}"></i>
+						<a class="project_names" href="{{url_for('editor', name=name, story_type='user')}}"><h3>{{name}}</h3></a>
+					</div>
+				{%endfor%}
+			</div>
+		</div>
+		<div class="col-lg-4">
+			<div id="sample_story_list" class="ui divided list">
+				<h2>Sample Projects</h2>
+				{%for name in sample_project_names:%}
+					<div class="item">
+						<!-- <i class="close icon delete_story" name="{{name}}"></i> -->
+						<a class="project_names" href="{{url_for('editor', name=name, story_type='sample')}}"><h3>{{name}}</h3></a>
+					</div>
+				{%endfor%}
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Main JavaScript -->
+<script type = "text/javascript" src="{{ url_for('static', filename='vendor/jquery/jquery-3.3.1.min.js') }}"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type = "text/javascript" src="{{ url_for('static', filename='vendor/bootstrap/bootstrap.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/semantic2.4/semantic.min.js') }}"></script>
+
+<script type="text/javascript">
+	$(".delete_story").on("click", function(){
+		if(confirm("Do you want to delete this story?")){
+			
+			$.ajax({
+				url: '/delete_project',
+				data: JSON.stringify({ name: $(this).attr('name')}),
+				type: 'POST',
+				success: function(res){
+					console.log(res)
+				},
+				error: function(error){
+					console.log("error !!!!");
+				}
+			});
+			$(this).closest(".item").remove();
+		}
+	})
+</script>
+
+{% endblock content %}

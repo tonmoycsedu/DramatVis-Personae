@@ -1,0 +1,102 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<div class="container-fluid">
+	<div id="graph" class="ui card" style="display:none; height: 300px;">
+		<div class="extra content">
+			<button id="graph_close" class="ui mini button">Close</button>
+			<!-- <label>Filter:</label><input type="range" min="0" max="10" value="0"> -->
+		</div>
+	</div>
+	<div class="row">
+		<div id="editor_div" class="col-lg-7">
+			<div class="ui form">
+			  <div class="field">
+					<div id="scrolling-container">
+			    	<div id="editor"></div>
+					</div>
+			  </div>
+			</div>
+
+		</div>
+		<div id="bias_div" class="col-lg-5" style="border-left: 0.1px solid #e8e2e2;">
+			<!-- <div id="alert_boxes"></div> -->
+			<div class="ui styled fluid accordion" style="overflow: visible">
+				<div class="title">
+				  <i class="dropdown icon"></i>
+				  Characters and Demographics
+				</div>
+				<div class="content">
+					<div id="person_list" class="ui divided list" style="height:30vh;overflow: auto;"></div>
+				</div>
+			</div>
+			
+			<hr>
+			<div id="timeline_header"></div>
+			<div id="loader" class="ui inline loader"></div>
+			<div id="storyline" style="width:100%;height:40vh;overflow-x: auto; overflow-y:auto;"></div>
+			<hr>
+			<!-- <div id="network" class="row" style="height:20vh;"></div>
+			<hr> -->
+			<div id="wordcloud_header">
+				<label>Show</label>
+				<select id="word_option">
+					<option value="both">Adjectives and Verbs</option>
+					<option value="adjective">Adjectives</option>
+					<option value="verb">Verbs</option>
+				</select>
+				<button id='reset_wordcloud' style='margin-left:10px; cursor:pointer; border-radius: 4px;'>Reset</button>
+				<button id="notification" type="button" class="ui mini icon button" style="margin-left: 10px;">
+					<i class="bell outline icon"></i> <span id="total_recs" class="badge badge-light">0</span>
+				</button>
+				<div class="ui popup bottom left transition hidden">
+					<div id="recommentdations" class="ui divided list">
+					</div>
+				</div>
+				<label style="margin-left:10px" for="word_threshold">Max words/group</label>
+				<input id="word_threshold" style="margin-left:2px" type="range" min="0" max="100" value="50" name="word_threshold">
+				<!-- <select id="wordcloud_select" multiple="" class="ui mini dropdown">
+				</select> -->
+			</div>
+			<div id="wordcloud" style="height:30vh;overflow:auto">
+				<!-- <div id="notification" class="ui icon button">
+					<i class="bell outline icon"></i>
+				</div> -->
+				
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	var name = {{name|tojson}}
+	var doc = {{doc|tojson}}
+	var story_type = {{story_type|tojson}}
+	// console.log(name, doc)
+</script>
+
+<!-- Main JavaScript -->
+<script type = "text/javascript" src="{{ url_for('static', filename='vendor/jquery/jquery-3.3.1.min.js') }}"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type = "text/javascript" src="{{ url_for('static', filename='vendor/bootstrap/bootstrap.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/semantic2.4/semantic.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/quill/quill.min.js') }}"></script>
+<!-- <script src="https://d3js.org/d3.v6.min.js"></script> -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+<!-- <script src="https://cdn.jsdelivr.net/npm/d3-array@3"></script> -->
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://unpkg.com/d3-force-cluster@latest"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-bboxCollide@1.0.4/build/d3-bboxCollide.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.5/d3.layout.cloud.js"></script>
+<!-- <script type ="text/javascript" src="{{ url_for('static', filename='vendor/plotly-latest.min.js')}}"></script> -->
+
+<!-- user js files -->
+<script src="{{ url_for('static', filename='js/config.js') }}"></script>
+<script src="{{ url_for('static', filename='js/character.js') }}"></script>
+<script src="{{ url_for('static', filename='js/editor.js') }}"></script>
+<script src="{{ url_for('static', filename='js/visualization.js') }}"></script>
+<script src="{{ url_for('static', filename='js/questions.js') }}"></script>
+<script src="{{ url_for('static', filename='js/index.js') }}"></script>
+
+
+{% endblock content %}

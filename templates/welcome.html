@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-lg-12" style="text-align: center;">
+            <h2>Welcome to <i>DramatVis Personae</i></h2>
+            {% if 'email' not in session %}
+                <a href="{{url_for('login')}}"><button class="ui large button blue">Login</button></a>
+                <a href="{{url_for('register')}}"><button class="ui large button">Signup</button></a>
+            {% endif%}
+            {% if 'email' in session %}
+                <a href="{{url_for('home')}}"><button class="ui large button blue">Home</button></s>
+            {% endif%} 
+		</div>
+	</div>
+</div>
+
+<!-- Main JavaScript -->
+<script type = "text/javascript" src="{{ url_for('static', filename='vendor/jquery/jquery-3.3.1.min.js') }}"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type = "text/javascript" src="{{ url_for('static', filename='vendor/bootstrap/bootstrap.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/semantic2.4/semantic.min.js') }}"></script>
+
+{% endblock content %}

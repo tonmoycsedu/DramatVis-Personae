@@ -1,0 +1,79 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<div class="container-fluid">
+	<div id="graph" class="ui card" style="display:none; height: 300px;">
+		<div class="extra content">
+			<button id="graph_close" class="ui mini button">Close</button>
+			<!-- <label>Filter:</label><input type="range" min="0" max="10" value="0"> -->
+		</div>
+	</div>
+	<div class="row">
+		<div id="editor_div" class="col-lg-7">
+			<div class="ui form">
+			  <div class="field">
+					<div id="scrolling-container" style="min-height: 70vh; height: 70vh; margin-bottom: 50px;">
+			    		<div id="editor" style="padding: 5px;"></div>
+					</div>
+			  </div>
+			</div>
+			<div id="study_div">
+				<div style="margin-bottom: 10px;">
+					<button class="ui button primary mini" id="backward" style="display: none;">Previous</button>
+					<button class="ui button primary mini" id="forward" style="display: none;">Next</button>
+					<button class="ui button secondary mini" id="stop_timer" style="display: none;">Start/Stop Timer</button>
+					<label id="timer_label" style="display: none;">Time left = </label><span id="timer"></span>
+				</div>
+				<button id="answer_questions" class="ui button">Answer Questions</button>
+				<div id="question" style="font-size: 18px;"></div>
+				<div id="choices"></div>
+			</div>
+		</div>
+		<div id="bias_div" class="col-lg-5" style="border-left: 0.1px solid #e8e2e2;">
+			<!-- <div id="alert_boxes"></div> -->
+			<div class="ui styled fluid accordion" style="overflow: visible">
+				<div class="active title">
+					<i class="dropdown icon"></i>
+					Characters and Demographics
+				</div>
+				<div class="active content">
+					<div id="person_list" class="ui divided list" style="height:30vh;overflow: auto;"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	var name = {{name|tojson}}
+	var doc = {{doc|tojson}}
+	var story_type = {{story_type|tojson}}
+	var q_list = {{q_list|tojson}}
+	// console.log(name, doc)
+</script>
+
+<!-- Main JavaScript -->
+<script type = "text/javascript" src="{{ url_for('static', filename='vendor/jquery/jquery-3.3.1.min.js') }}"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type = "text/javascript" src="{{ url_for('static', filename='vendor/bootstrap/bootstrap.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/semantic2.4/semantic.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/quill/quill.min.js') }}"></script>
+<!-- <script src="https://d3js.org/d3.v6.min.js"></script> -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+<!-- <script src="https://cdn.jsdelivr.net/npm/d3-array@3"></script> -->
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://unpkg.com/d3-force-cluster@latest"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-bboxCollide@1.0.4/build/d3-bboxCollide.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.5/d3.layout.cloud.js"></script>
+<!-- <script type ="text/javascript" src="{{ url_for('static', filename='vendor/plotly-latest.min.js')}}"></script> -->
+
+<!-- user js files -->
+<script src="{{ url_for('static', filename='js/study/config.js') }}"></script>
+<script src="{{ url_for('static', filename='js/study/character.js') }}"></script>
+<script src="{{ url_for('static', filename='js/study/editor.js') }}"></script>
+<script src="{{ url_for('static', filename='js/study/visualization.js') }}"></script>
+<script src="{{ url_for('static', filename='js/study/questions.js') }}"></script>
+<script src="{{ url_for('static', filename='js/study/study.js') }}"></script>
+
+
+{% endblock content %}

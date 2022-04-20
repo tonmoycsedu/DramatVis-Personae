@@ -1,0 +1,121 @@
+/*used for defining the custom color of the website*/
+.site-color {
+  background-color: #b7d7e8 !important;
+  border-color: #034f84 !important;
+  /* border-bottom-style: solid;
+  border-bottom-width: 2px !important;; */
+}
+.mainnav{
+  /* border-bottom-style: solid;
+  border-bottom-width: 3px !important;; */
+  /* border-bottom: 5px solid #4040a1!important; */
+  margin-bottom: 5px;
+
+}
+/* .main_title {
+  color:maroon !important;
+} */
+
+/* Tell Quill not to scroll */
+#editor {
+  height: auto;
+  min-height: 100vh;
+  padding: 50px;
+}
+#editor .ql-editor {
+  font-size: 18px;
+  overflow-y: auto; 
+}
+
+/* Specify our own scrolling container */
+#scrolling-container {
+  height: 100vh;
+  min-height: 100vh;
+  overflow-y: auto;
+}
+
+/* .scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+} */
+body, .container-fluid, .row, .col-lg-4, .col-lg-8{
+  height: 100vh;
+}
+#header{
+  height: 5vh;
+  position: relative;
+  /*text-align: right;*/
+  /*float: right;*/
+  /*position: absolute;*/
+}
+.control{
+  display: inline-block;
+  margin-top: 10px;
+}
+#loading_text{
+  position: absolute;
+  visibility:  hidden;
+  left: 50%;
+  font-size: 18pt;
+}
+
+input[type="range"]{
+  margin: .4em;
+}
+
+.ui.input {
+  margin-top: 2px;
+}
+
+.ui.dropdown {
+  margin-right: 10px;
+}
+
+.ui.divided.list > .item {
+  cursor: pointer;
+}
+
+/* #person_list {
+  overflow-y: scroll;
+} */
+
+#wordcount {
+  font-size: 20px;
+  color:black;
+}
+#graph {
+  position: absolute;
+  text-align: center;
+  z-index:9;
+  /* background: lightsteelblue; */
+  /* width: 60px;
+  height: 28px;
+  padding: 2px;
+  font: 12px sans-serif;
+  
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none; */
+}
+
+svg {
+  overflow-x: auto !important;
+  overflow-y: auto !important;
+}
+
+.svg-tooltip {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple   Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    background: rgba(69,77,93,.9);
+    border-radius: .1rem;
+    color: #fff;
+    display: block;
+    font-size: 11px;
+    max-width: 320px;
+    padding: .2rem .4rem;
+    position: absolute;
+    text-overflow: ellipsis;
+    white-space: pre;
+    z-index: 300;
+    visibility: hidden;
+  }
