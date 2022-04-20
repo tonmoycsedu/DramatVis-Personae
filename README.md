@@ -1,7 +1,10 @@
-# Welcome to DramatVIS Personae.
+# Welcome to DramatVIS Personae (DVP).
 
 1. To get started please install the python packages in app.py.
 2. Open a terminal in the directory.
-3. Run app.py
-4. Go to localhost:5000/home
-5. Start writing a new story, or select an existing story for analysis. Note that longer documents may take some time to process.
+3. Run the command: python app.py
+4. To try out a quick demo, please go to either http://127.0.0.1:5000/demo/a_kiss_of_ice/ or http://127.0.0.1:5000/demo/the_prisoners/
+  These are the two stories used for evaluating the DVP tool. Please see more details in our paper.
+6. To write a story using dramtvis personae, please go to http://127.0.0.1:5000/home and click on the "New Story" button.
+
+Note that, the tool depends on spacy's named entity recognition and neuralcoref's coreference resolution model. These are very good models, but still will not give you the perfect result. We are currently working on improving these models. 
