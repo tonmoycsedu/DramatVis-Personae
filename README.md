@@ -1,7 +1,6 @@
 # Welcome to DramatVis Personae (DVP).
 
-To try out a quick demo online, please visit either http://130.245.128.219:3000/demo/a_kiss_of_ice/ or http://130.245.128.219:3000/demo/the_prisoners/
-These are the two stories used for evaluating the DVP tool. Please see more details in our paper.
+To try out a quick demo online, please visit either http://130.245.128.219:3000/demo/a_kiss_of_ice/ or http://130.245.128.219:3000/demo/the_prisoners/ . These are the two stories used for evaluating the DVP tool. Please see more details in our paper.
 
 To write a story using dramtvis personae, please go to http://130.245.128.219:3000/home and click on the "New Story" button.
 
